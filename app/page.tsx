@@ -389,7 +389,7 @@ export default function Home() {
             </div>
 
             <span className="text-xl font-medium">
-              Shakhawat, Bijoy <br />
+              Shakhawat Bijoy <br />
               CEO, Buy High
             </span>
           </div>
